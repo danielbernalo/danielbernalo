@@ -4,7 +4,7 @@
 |---|---------------------------------------------|
 
 <a href="https://www.instagram.com/danielbernal23/" target="_blank">
-  <img style="margin: 0 4px" align="left" alt="Instagram" width="24px" height="22px" src="./img/facebook.svg?raw=true" />
+  <img style="margin: 0 4px" align="left" alt="Instagram" width="24px" height="22px" src="./img/instagram.svg?raw=true" />
 </a>
 
 <a href="https://www.linkedin.com/in/danielbernalo/" target="_blank">
