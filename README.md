@@ -43,7 +43,7 @@ Want to know more about my professional career? Check out my [[c] vitae](https:/
 
 
 <a href="https://wakatime.com/danielbernal">
-    <img align="center" style="margin: 4px 4px 4px 4px" src="https://github-readme-stats.vercel.app/api/wakatime?username=1cac88ba-baba-47d4-9bcd-a606354a7647&show_icons=true&theme=default&layout=compact&hide=html" alt="Daniel's time spend" />
+    <img align="center" style="margin: 4px 4px 4px 4px" src="https://github-readme-stats.vercel.app/api/wakatime?username=1cac88ba-baba-47d4-9bcd-a606354a7647&show_icons=true&theme=default&layout=compact&hide=html&langs_count=10" alt="Daniel's time spend" />
 </a>
 
 <br>
