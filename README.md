@@ -1,7 +1,6 @@
 <br>
 
-|<img style="margin: 0 0 16px 0" align="left" alt="Banner" width="100%" src="./img/mosaic_fade.png?raw=true" />| <h4> Daniel Bernal</h4>Software Engineer 🤓 |
-|---|---------------------------------------------|
+<img style="margin: 0 0 16px 0" align="left" alt="Banner" width="100%" src="./img/mosaic_fade.png?raw=true" />
 
 <a href="https://www.instagram.com/danielbernal23/" target="_blank">
   <img style="margin: 0 4px" align="left" alt="Instagram" width="24px" height="22px" src="./img/instagram.svg?raw=true" />
